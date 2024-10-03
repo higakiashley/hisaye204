@@ -1,0 +1,20 @@
+/* CSS files add styling rules to your content */
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
+}
+
+/* img {
+  max-width: 100%;
+  height: auto;
+} */
+
+/* .jumbotron {
+  background-color: black;
+  color: white;
+} */
+
+/* .navbar {
+  background-color: red !important;
+} */
