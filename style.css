@@ -2,7 +2,7 @@
 
 .fakeimg {
   height: 200px;
-  background: #aaa;
+  background: #cd8c8c;
 }
 
 /* img {
@@ -11,10 +11,20 @@
 } */
 
 /* .jumbotron {
-  background-color: black;
-  color: white;
+  background-color: ;
+  color: black;
 } */
 
 /* .navbar {
   background-color: red !important;
 } */
+
+.jumbotron {
+  background-image: url("Cherry\ Blossom.png");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  color: rgb(0, 0, 0);
+}
+
+
